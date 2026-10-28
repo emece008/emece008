@@ -15,4 +15,4 @@ En el desarrollo actual es habitual caer en la sobreingeniería: cientos de capa
 ---
 
 ### 📌 Proyectos destacados
-* **[Photo Sphere Studio 3D](https://github.com/emece008/photo-sphere-studio-3d):** Estudio 3D y generador procedural de constelaciones fotográficas con Three.js, físicas anti-colisión y recorte geométrico vectorial.
+* **[Photo Sphere Studio 3D](https://github.com/emece008/photo-sphere-3D):** Estudio 3D y generador procedural de constelaciones fotográficas con Three.js, físicas anti-colisión y recorte geométrico vectorial.
